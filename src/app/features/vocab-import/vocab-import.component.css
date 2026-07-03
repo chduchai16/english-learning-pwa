@@ -1,0 +1,6 @@
+/* Vocab Import Component Styles */
+/* Tailwind CSS is used for styling, so minimal custom CSS is needed */
+
+:host {
+  display: block;
+}
