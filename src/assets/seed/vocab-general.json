@@ -1,0 +1,142 @@
+[
+  {
+    "term": "hello",
+    "meaning": "a polite expression used when meeting someone",
+    "example": "Hello, how are you?",
+    "phonetic": "/həˈloʊ/",
+    "level": "A1"
+  },
+  {
+    "term": "goodbye",
+    "meaning": "a polite expression used when leaving someone",
+    "example": "Goodbye, see you tomorrow!",
+    "phonetic": "/ɡʊdˈbaɪ/",
+    "level": "A1"
+  },
+  {
+    "term": "thank you",
+    "meaning": "an expression of gratitude",
+    "example": "Thank you for your help.",
+    "phonetic": "/θæŋk juː/",
+    "level": "A1"
+  },
+  {
+    "term": "please",
+    "meaning": "a polite word used to make a request",
+    "example": "Please pass the salt.",
+    "phonetic": "/pliːz/",
+    "level": "A1"
+  },
+  {
+    "term": "yes",
+    "meaning": "an affirmative response",
+    "example": "Yes, I agree with you.",
+    "phonetic": "/jɛs/",
+    "level": "A1"
+  },
+  {
+    "term": "no",
+    "meaning": "a negative response",
+    "example": "No, I don't think so.",
+    "phonetic": "/noʊ/",
+    "level": "A1"
+  },
+  {
+    "term": "water",
+    "meaning": "a clear liquid that is essential for life",
+    "example": "I drink water every day.",
+    "phonetic": "/ˈwɔːtər/",
+    "level": "A1"
+  },
+  {
+    "term": "food",
+    "meaning": "any nutritious substance consumed to maintain life and growth",
+    "example": "The food at this restaurant is delicious.",
+    "phonetic": "/fuːd/",
+    "level": "A1"
+  },
+  {
+    "term": "house",
+    "meaning": "a building for human habitation",
+    "example": "I live in a small house.",
+    "phonetic": "/haʊs/",
+    "level": "A1"
+  },
+  {
+    "term": "family",
+    "meaning": "a group of people related by blood or marriage",
+    "example": "My family is very important to me.",
+    "phonetic": "/ˈfæməli/",
+    "level": "A1"
+  },
+  {
+    "term": "friend",
+    "meaning": "a person with whom one has a bond of mutual affection",
+    "example": "She is my best friend.",
+    "phonetic": "/frɛnd/",
+    "level": "A1"
+  },
+  {
+    "term": "work",
+    "meaning": "activity involving mental or physical effort done in order to achieve a purpose",
+    "example": "I work as a software engineer.",
+    "phonetic": "/wɜːrk/",
+    "level": "A1"
+  },
+  {
+    "term": "school",
+    "meaning": "an institution for educating children",
+    "example": "I went to school when I was five years old.",
+    "phonetic": "/skuːl/",
+    "level": "A1"
+  },
+  {
+    "term": "book",
+    "meaning": "a set of printed pages bound together",
+    "example": "I'm reading an interesting book.",
+    "phonetic": "/bʊk/",
+    "level": "A1"
+  },
+  {
+    "term": "time",
+    "meaning": "the indefinite continued progress of existence and events",
+    "example": "What time is it?",
+    "phonetic": "/taɪm/",
+    "level": "A1"
+  },
+  {
+    "term": "day",
+    "meaning": "a period of 24 hours",
+    "example": "I see you every day.",
+    "phonetic": "/deɪ/",
+    "level": "A1"
+  },
+  {
+    "term": "night",
+    "meaning": "the period of darkness between sunset and sunrise",
+    "example": "I sleep at night.",
+    "phonetic": "/naɪt/",
+    "level": "A1"
+  },
+  {
+    "term": "morning",
+    "meaning": "the early part of the day from sunrise to noon",
+    "example": "Good morning! How are you?",
+    "phonetic": "/ˈmɔːrnɪŋ/",
+    "level": "A1"
+  },
+  {
+    "term": "afternoon",
+    "meaning": "the time from noon to evening",
+    "example": "Let's meet in the afternoon.",
+    "phonetic": "/ˌæftərˈnuːn/",
+    "level": "A1"
+  },
+  {
+    "term": "evening",
+    "meaning": "the period of time at the end of the day",
+    "example": "I like to walk in the evening.",
+    "phonetic": "/ˈiːvnɪŋ/",
+    "level": "A1"
+  }
+]
